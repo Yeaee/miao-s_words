@@ -21,3 +21,5 @@ tell me why1ya1ya1ya
 how long is long ?
 
 myc：一坨。
+
+一定要读者友好，点最好正好落在横坐标上。(0-25)->(-1-24)
